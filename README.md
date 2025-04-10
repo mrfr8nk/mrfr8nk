@@ -88,7 +88,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/mrfr8nk"><img src="https://img.shields.io/github/followers/paxsenix0?label=Follow&style=social" alt="GitHub followers"></a>
+  <a href="https://github.com/mrfr8nk"><img src="https://img.shields.io/github/followers/mrfr8nk?label=Follow&style=social" alt="GitHub followers"></a>
 </p>
 
 ---
