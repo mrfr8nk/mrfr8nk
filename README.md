@@ -80,7 +80,7 @@
   <img src="https://raw.githubusercontent.com/paxsenix0/github-stats/master/generated/languages.svg#gh-dark-mode-only" alt="GitHub Stats Languages" />
 </div> -->
 
-<h1 align="center">I'm Darrelll :)</h1>
+<h1 align="center">I'm Darrell Mucheri :)</h1>
 <h4 align="center">Why y'all stalk my account? 👀</h4>
 
 <p align="center">
@@ -97,7 +97,7 @@
   
 ### 🚀 Quick Facts
   
-🔭 I'm currently working on **SUBZERO AI & SCHOOLSPHERE**  
+🔭 I'm currently working on **Subzero AI, E-School, Rest APIs & AI**  
 🌱 I'm currently learning **Website Development** aiming for FullStack Dev
 🎮 When not coding, I'm probably **Reading**  
 🎯 2025 Goal: **Learning New Things.**  
