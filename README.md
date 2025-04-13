@@ -98,10 +98,10 @@
 ### 🚀 Quick Facts
   
 🔭 I'm currently working on **SUBZERO AI & SCHOOLSPHERE**  
-🌱 I'm currently learning **Website Development**  
+🌱 I'm currently learning **Website Development** aiming for FullStack Dev
 🎮 When not coding, I'm probably **Reading**  
-🎯 2025 Goal: **Happy.**  
-⚡ Fun fact: **I have skill issue**
+🎯 2025 Goal: **Learning New Things.**  
+⚡ Fun fact: **I am not Social**
 
 </div>
 
@@ -121,7 +121,7 @@
   
 ### 📊 GitHub Stats
   
-<img src="https://github-readme-stats.vercel.app/api?username=mrfr8nk&show_icons=true&theme=radical" alt="paxsenix0's GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=mrfr8nk&show_icons=true&theme=radical" alt="Darrell's GitHub stats" />
   
 <img src="https://github-readme-streak-stats-eight.vercel.app/?user=mrfr8nk&theme=radical" alt="paxsenix0's streak" />
 
@@ -132,14 +132,14 @@
 <h3 align="center">🔝 Top Projects</h3>
 
 <p align="center">
-  <a href="https://github.com/Paxsenix0/MusixMatch-Lyrics">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=paxsenix0&repo=MusixMatch-Lyrics&theme=radical" />
+  <a href="https://github.com/mrfr8nk/schoolsphere">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mrfr8nk&repo=schoolsphere&theme=radical" />
   </a>
-  <a href="https://github.com/Paxsenix0/example-express-swagger">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=paxsenix0&repo=example-express-swagger&theme=radical" />
+  <a href="https://github.com/mrfrankofcc/SUBZERO-MD">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mrfrankofcc&repo=SUBZERO-MD&theme=radical" />
   </a>
-  <a href="https://github.com/Paxsenix0/Spotify-Canvas-API">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=paxsenix0&repo=Spotify-Canvas-API&theme=radical" />
+  <a href="https://github.com/mrfr8nk/E-Commerce">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mrfr8nk&repo=E-Commerce&theme=radical" />
   </a>
 </p>
 
