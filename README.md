@@ -138,8 +138,8 @@
   <a href="https://github.com/mrfrankofcc/SUBZERO-MD">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=mrfrankofcc&repo=SUBZERO-MD&theme=radical" />
   </a>
-  <a href="https://github.com/mrfr8nk/E-Commerce">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mrfr8nk&repo=E-Commerce&theme=radical" />
+  <a href="https://github.com/mrfr8nk/fashion-models-web">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mrfr8nk&repo=fashion-models-web&theme=radical" />
   </a>
 </p>
 
