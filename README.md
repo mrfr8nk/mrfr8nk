@@ -132,8 +132,8 @@
 <h3 align="center">🔝 Top Projects</h3>
 
 <p align="center">
-  <a href="https://github.com/mrfr8nk/schoolsphere">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mrfr8nk&repo=schoolsphere&theme=radical" />
+  <a href="https://github.com/mrfr8nk/sw-v2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mrfr8nk&repo=sw-v2&theme=radical" />
   </a>
   <a href="https://github.com/mrfrankofcc/SUBZERO-MD">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=mrfrankofcc&repo=SUBZERO-MD&theme=radical" />
