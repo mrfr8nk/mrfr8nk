@@ -12,19 +12,19 @@
 
 ## I am [Darrell Mucheri](https://MRFRANKOFC.GLEEZE.COM)
 
-A Certified [**Full stack Developer**](https://bit.ly/aadreski). Someone who is interested and fascinated to develop software apps with some experience in   Js, nodejs, ts,py & learning C# programming language. As a student at **St MARYS high 2021-26**, alumni of **Ghetoo coders 2025** and founder of the **Synapex DEVELOPERS**.
+A Certified [**Full stack Developer**](https://bit.ly/aadreski). Someone who is interested and fascinated to develop software apps with some experience in   Js, nodejs, ts,py & learning C# programming language. As a student at **St MARYS high 2021-2026**, alumni of **Ghetto coders 2025** and founder of the **Synapex DEVELOPERS**.
 
 ### About Me
 
 - <img src="./logo-svg/astra.svg" width="25px"> Software Developer (freelance)
 - <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/61439225" width="25px"> Certified [**Associate Android Developer**](https://bit.ly/aadreski)
 - <img src="./logo-svg/devcamp.png" width="25px" /> **Hack Club organiser** 2026 - **Chitungwiza** Zimbabwe
-- <img src="./logo-svg/bangkit-logo.svg" width="25px" /> **A level Student** at [ St  Marys 2025-26_](https://g.co/bangkit)
-- <img src="./logo-svg/google-developers.svg" width="25px" />[**Google Developer Student Clubs**](https://gdsc-ummi.tech) _
+- <img src="./logo-svg/bangkit-logo.svg" width="25px" /> **A level Student** at St  Marys 2025-2026
+- <img src="./logo-svg/google-developers.svg" width="25px" />Google Developer Student Clubs
 
 I am a person who really likes new things, and feel challenged about it. I really enjoy exploring and seeking knowledge in the world of computers, gadgets and programming, that's the reason I chose to study Informatics Engineering.
 
-I feel that what my campus teaches is not enough, therefore I continue to seek knowledge outside of lectures, and that is my daily activity.
+I feel that what my school teaches is not enough, therefore I continue to seek knowledge outside of school curriculum, and that is my daily activity.
 
 - 👀 I’m interested in Algorithm, Web Development, Mobile Application, Machine Learning & Engineering
 - 🌱 I’m currently learning about Mobile Apps (Android) and Machine Learning
@@ -35,10 +35,10 @@ I feel that what my campus teaches is not enough, therefore I continue to seek k
 
   [![My Portfolio](https://img.shields.io/badge/My%20Portfolio-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)](https://mrfrankofc.gleeze.com)&nbsp;
   [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/darr)&nbsp;
-  [![Instagram](https://img.shields.io/badge/reskimulud-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/reskimulud)&nbsp;
+  [![Instagram](https://img.shields.io/badge/darrell-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/reskimulud)&nbsp;
   [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/darrellmucheri)&nbsp;
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:darrelmucheri@gmail.com)&nbsp;
-  [![Twitter](https://img.shields.io/badge/reski_mulud-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/mrfr4nk)&nbsp;
+  [![Twitter](https://img.shields.io/badge/darrell-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/mrfr4nk)&nbsp;
   <!-- [![Twitter](https://img.shields.io/twitter/follow/reski_mulud?logo=twitter&style=for-the-badge&logoColor=white)](https://twitter.com/reski_mulud)&nbsp; -->
   [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/263719647303)&nbsp;
   [![Telegram](https://img.shields.io/badge/Telegram-%230088FF.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/mrfrankofc)&nbsp;
