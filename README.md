@@ -1,6 +1,6 @@
 # Hi Folks! <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAj/hi.gif" width="35px" height="35px" />
 
-![](screencapture-reskimulud-my-id-2021-07-31-21_11_10.jpg)
+![](devdee.png)
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)&nbsp;
 ![Profile Viewer](https://komarev.com/ghpvc/?username=mrfr8nk&label=Profile%20views&color=0e75b6&style=flat)&nbsp;
