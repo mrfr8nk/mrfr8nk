@@ -10,7 +10,7 @@
 [![GitHub forks](https://img.shields.io/github/forks/reskimulud/reskimulud.svg?style=social)](https://github.com/reskimulud/reskimulud)&nbsp;
 [![GitHub: reskimulud](https://img.shields.io/github/followers/reskimulud?label=follow&style=social)](https://github.com/reskimulud)&nbsp;
 
-## I am [Reski Mulud Muchamad](https://reskimulud.my.id)
+## I am [Darrell Mucheri](https://reskimulud.my.id)
 
 A Google Certified [**Associate Android Developer**](https://bit.ly/aadreski). Someone who is interested and fascinated to develop Android apps with some experience in Android Development using Kotlin (Android Native) programming language. As a graduate of **Bangkit Academy 2022**, alumni of **Tokopedia Devcamp 2022** and former Lead in the **Google Developer Student Clubs community**.
 
